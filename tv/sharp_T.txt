@@ -1,0 +1,53 @@
+Specifications
+Aquodimming
+Yes
+Smart TV
+Yes
+HDR Processing
+Yes
+Display
+Resolution
+3840*2160 RGB
+4K Upscaler
+Yes
+Reception
+Maximum Audio Output
+10W*2
+Terminals
+RF Input
+1
+HDMI ARC
+Yes
+Digital Audio Output
+1
+USB (supports DMP)
+USB 2.0*1
+Earphone/Audio output
+1
+Other Features
+Noise Reduction
+Digital Noise Reduction
+Parental Control
+Yes
+Sleep Timer
+Yes
+Ethernet
+Yes
+Vudu
+Yes
+Youtube
+Yes
+Ultraflix 4k
+Yes
+Pandora, Vimeo, etc
+Yes
+Power
+Power Supply
+AC 120V, 60Hz
+Accessory
+Battery
+2
+Power Cord
+1
+QSG
+English/Spanish/French

@@ -1,0 +1,74 @@
+Picture Quality	Display	Panel	4K ULTRA HD IPS LED LCD
+4K PRO	—
+Bright Panel	Super Bright Panel
+Screen Resolution	3,840 (W) x 2,160 (H)
+Panel Drive	100 Hz BMR
+Picture Mode	Dynamic/Normal/Cinema/True Cinema/Custom
+Signal Processor	—
+Hexa Chroma Drive	—
+Vivid Digital Pro	Y
+4K Upscaling	—
+HDR	Y
+Local Dimming	—
+Adaptive Backlight Dimming	Y
+Noise Reduction	(Dot Noise)
+THX Certified Display*²	—
+4K Pure Direct	—
+isf Mode	—
+3D Look Up Table	—
+3D	—
+Sound Quality	Surround	DTS Surround sound
+Speakers	Full Range x 2
+Home Theatre Built-In	Y
+Woofer	—
+Speaker Output	20 W (10 W x 2)
+Sound Mode	Standard/Music/Speech/User
+Smart Features	Smart TV	Cast TV
+my Home Screen	—
+Info Frame	—
+Voice Interaction	—
+Voice Guidance	—
+EPG	—
+On Screen Display Menu Languages	—
+Unique Processing Engine	Quad-Core Pro
+Wireless LAN Built-in	Y
+Panasonic Media Center (App)	—
+TV Anytime*³	—
+USB-HDD Recording	—
+Panasonic TV Remote Apps	—
+Swipe & Share	—
+Smart Calibration	—
+Internet Apps	—
+Web Browser*4	—
+Mirroring	Y
+DLNA*5	Y
+Bluetooth*6	Y (Keyboard/Mouse)
+Wireless Media	—
+Media Player	Y
+Support Format	Mpeg1/2,H.264,VC1,HEVC,Mpeg4, MP3, WMA, JPEG, BMP,PNG
+Double USB Sharing	—
+Teletext Reception	—
+Multi Window	—
+Hotel Mode	—
+VIERA Link	—
+Energy Data	Rated Power Consumption	100 W
+Standby Power Consumption	<0.5 W
+Power Supply	AC Auto 110 - 240 V, 50/60 Hz
+Terminal	Digital Tuner Reception	—
+Analogue Tuner	—
+HDMI*8	1 (side), 2 (bottom)
+HDMI (4K 60/50p with HDCP2.2)	3
+Support Feature	Audio Return Channel
+USB	2 (2 side; USB 3.0 x 1, USB 2.0 x 1)
+LAN Port	1
+SD Card	—
+Component Video Input shared with Composite	RCA phono type x 1 (rear)
+Composite Video Input	RCA phono type x 1 (rear)
+Analogue Audio Output	—
+Headphone Output	1 (side)
+General	Included Accessory*?	TV Remote
+Dimensions (W x H x D) (w/o stand)	96.6 X 7.4 X 58.4 cm
+Dimensions (W x H x D) (with stand)*¹°	96.6 X 20.2 X 61.1 cm
+Weight (w/o stand)	9.4 kg
+Weight (with stand)	9.7 kg
+VESA Compatible	Y

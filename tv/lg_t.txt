@@ -1,0 +1,172 @@
+Display Type
+OLED
+ 
+Screen Size (in.)
+77
+Resolution
+3840 x 2160
+Video
+HDR
+Active HDR with Dolby Vision
+ 
++ HDR10
+Yes
++ HLG
+Yes
+ 
++ Dolby Vision
+Yes
+ULTRA Luminance
+Yes
+ 
+Colour Master Engine
+Yes
+Active Depth Enhancer
+Yes
+ 
+Resolution Upscaler
+Yes (4K)
+HDR Effect
+Yes
+ 
+Smart Picture Mode
+Yes
+HEVC Codec
+Yes
+ 
+VP9 Decoder
+Yes
+Audio
+Audio Output
+60W (WF : 20W)
+ 
+Speaker System
+4.2 ch
+Dolby Atmos
+Yes - Dolby Atmos stream from BluRay Player requires software update available later in 2017
+ 
+Surround Mode
+Dolby Surround (OLED Surround)
+Magic Sound Tuning
+Yes
+ 
+Hi-Fi Audio
+Yes
+LG Sound Sync
+Yes
+ 
+DTS Decoder
+Yes
+Audio Codec
+AC3(Dolby Digital), EAC3, HE-AAC, AAC, MP2, MP3, PCM, DTS, DTS-HD, DTS Express, WMA, apt-X
+Smart TV
+webOS 3.5
+Yes
+ 
+Magic Remote
+Included
+Natural Voice Recognition
+Yes
+ 
+Universal Control
+Yes
+LG Content Store
+Yes
+ 
+Full Web Browser
+Yes
+Music Player
+Yes
+ 
+Freeview Play
+Yes
+Broadcasting System
+Digital TV Reception(Terrestrial,Cable,Satellite)
+DVB-T2/C/S2 (Main/Sub)
+ 
+EPG(8days)
+Yes
+Digital Recording
+Yes
+ 
+Twin Tuner
+Yes
+Connectivity
+HDMI
+4
+ 
++ ARC (Audio Return Channel)
+Yes
+USB
+3 (1 x 3.0)
+ 
+LAN
+1
+CI Slot
+1
+ 
+RF In
+3 (RF, Sat Main/Sub)
+Wi-Fi
+Yes
+ 
+Digital Audio Out (Optical)
+Yes
+Headphone out / Line out
+1/1
+ 
+RS-232C (Control / SVC)
+1 (Phone Jack Type)
+WiDi (PC to TV)
+Yes
+ 
+Miracast (Moblie to TV Mirroring)
+Yes
+Network File Browser
+Yes
+ 
+Simplink (HDMI CEC)
+Yes
+Power
+Energy Saving Mode
+Yes
+ 
+Energy Efficiency Class (A++ to E scale)
+B
+Power Supply (Voltage, Hz)
+100~240Vac 50-60Hz
+ 
+Standby Power Consumption
+0.3W
+Dimensions - WxHxD (mm)
+Size W/O Carton, W/O Stand
+1721 x 989 x 6
+ 
+AIO Box
+1460 x 84 x 208
+Size W/ Carton, With Stand
+1923 x 1131 x 285
+ 
+EAN Code
+8806087256789
+Weight (Kg)
+Weight (TV)
+12.3
+ 
+Weight (AIO Box)
+12.7
+Weight (W/Carton)
+50.0
+Accessory
+Remote Control
+Yes
+ 
+Power Cable
+Yes
+Owner's Manual
+Yes
+ 
+Battery (for Remote Control)
+Yes
+Wall Bracket
+Yes
